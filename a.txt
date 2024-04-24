@@ -5,3 +5,5 @@ git remote rename
 git remote
 
 git push
+
+git fetch
