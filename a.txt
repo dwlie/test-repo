@@ -3,3 +3,5 @@ git remote git@github.com:dwlie/test-repo.git
 git remote rename
 
 git remote
+
+git push
